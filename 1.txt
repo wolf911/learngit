@@ -2,4 +2,5 @@
 using namespace std;
 class student{
 	cout<<"iiaiiasdhash";
+阿斯兰将带来降低拉上解答解答了据了解nsadnlan
 }
